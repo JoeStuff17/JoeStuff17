@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeStuff17
 - 👀 I’m interested in Desingning as well as backend
-- 🌱 I’m currently learning React_native
+- 🌱 I’m currently learning React_native and Angular
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me through Instagram  - me_joe
 
